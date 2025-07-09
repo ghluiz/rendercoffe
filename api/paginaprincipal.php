@@ -126,7 +126,7 @@ font-size:45px;
 <div class="profilebox">
 
     <div class="profileboxcontent">
-        <a href= "pagperfil1.php">
+        <a href= "Pagperfil1.php">
             <button  class="profiletext" id="perfillink" >Perfil</button>
         </a>
         <a href= "sucesso.php">
